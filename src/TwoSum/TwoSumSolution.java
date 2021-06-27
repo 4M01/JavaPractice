@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSumSolution1 {
+public class TwoSumSolution {
 
     public int[] twoSum(int[] nums, int target){
         Map<Integer,Integer> map = new HashMap<>();
@@ -23,7 +23,7 @@ public class TwoSumSolution1 {
         int[] array = {2, 7, 11, 15};
         int target = 9;
 
-        TwoSumSolution1 solution = new TwoSumSolution1();
+        TwoSumSolution solution = new TwoSumSolution();
         System.out.println("Solution is =>"+ Arrays.toString(solution.twoSum(array, target)));
     }
 }
