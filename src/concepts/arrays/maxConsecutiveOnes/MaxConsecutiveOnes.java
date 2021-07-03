@@ -23,3 +23,4 @@ public class MaxConsecutiveOnes {
         System.out.println("No of ones is given array: "+onesCount);
     }
 }
+
