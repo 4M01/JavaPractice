@@ -1,6 +1,5 @@
-<h1>  Max Consecutive Ones
+<h1>  Max Consecutive Ones </h1>
 
-</h1>
 
 Given a binary array `nums`, return the maximum number of consecutive 1's in the array.
 
@@ -19,6 +18,5 @@ Output: 2
 <b>Constraints:</b>
 - `1 <= nums.length <= 10sum5`
 - `nums[i]` is either `0` or `1`.
-
 
 
