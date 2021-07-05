@@ -1,4 +1,4 @@
-#   Squares of a Sorted Array
+#   977. Squares of a Sorted Array
 
 Given an integer array `nums` sorted in **non-decreasing** order, return an array of **the squares of each number** sorted in non-decreasing order.
 
@@ -19,6 +19,8 @@ Output: [4,9,9,49,121]
 - `1 <= nums.length <= 104`
 - `-10sum4 <= nums[i] <= 10sum4`
 - `nums` is sorted in **non-decreasing** order.
+
+**Follow up:** Squaring each element and sorting the new array is very trivial, could you find an O(n) solution using a different approach?
 
 
 
